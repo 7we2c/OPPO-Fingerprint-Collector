@@ -32,7 +32,7 @@ Despite providing clear evidence that this identifier **survives a Factory Reset
 
 
 
-   jst run python3 oppo_leaker.py
+python3 main.py
 
    📊 Technical Details (The "Informative" Part)
 Target Port: 46888/tcp
